@@ -13,17 +13,16 @@ Tingginya attrition rate: Tingginya rasio jumlah karyawan yang keluar dibandingk
 ### Cakupan Proyek
 
 1. Persiapan
-    * Menyiapkan library yang dibutuhkan
-    * Menyiapkan data yang akan digunakan
+   - Menyiapkan library yang dibutuhkan
+   - Menyiapkan data yang akan digunakan
 2. Data Understanding
-    * Data preparation/preprocessing
-    * Exploratory Data Analysis
-    * RFM Analysis
+   - Data preparation/preprocessing
+   - Exploratory Data Analysis
+   - RFM Analysis
 
 ### Persiapan
 
 Sumber data: [https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee]
-
 
 ## Business Dashboard
 
@@ -32,6 +31,7 @@ Dashboard yang dibuat menggunakan aplikasi Metabase berfungsi sebagai alat visua
 ## Conclusion
 
 Diketahui bahwa Jaya Jaya Maju memiliki 1470 karyawan, dan lebih dari 10% dari mereka keluar. Berdasarkan analisis data, terdapat beberapa faktor yang mempengaruhi tingginya attrition rate tersebut, antara lain:
+
 1. Gender: Sebagian besar karyawan yang keluar adalah laki-laki.
 2. BusinessTravel: Karyawan dengan tugas perjalanan yang sering (Frequent business travel) cenderung memiliki attrition rate yang lebih tinggi.
 3. EnvironmentSatisfaction: Karyawan dengan tingkat kepuasan lingkungan kerja yang rendah (environment satisfaction low) lebih mungkin untuk keluar.
@@ -40,8 +40,7 @@ Diketahui bahwa Jaya Jaya Maju memiliki 1470 karyawan, dan lebih dari 10% dari m
 6. Department: Department research and development memiliki angka keluarnya karyawan yang tinggi.
 7. Overtime: Karyawan yang sering bekerja lembur cenderung lebih cepat keluar.
 8. Education: Karyawan dengan pendidikan bachelor lebih banyak yang keluar.
-9. Age: Karyawan berusia antara 26-39 tahun, dengan median sekitar 31 tahun, menunjukkan kecenderungan lebih tinggi untuk keluar.
-10. DistanceFromHome: Karyawan yang tinggal lebih dari 15 km dari kantor lebih mungkin untuk keluar.
+9. Age: Karyawan berusia antara 26-34 tahun, menunjukkan kecenderungan lebih tinggi untuk keluar.
 
 ### Rekomendasi Action Items (Optional)
 
@@ -51,4 +50,3 @@ Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna m
 - Fleksibilitas dan kebijakan perjalanan (Meninjau kembali kebijakan perjalanan bisnis untuk mengurangi frekuensi perjalanan yang tidak perlu dan mempertimbangkan opsi kerja jarak jauh atau fleksibel bagi karyawan yang sering melakukan perjalanan)
 - Program pengembangan karir (Membuat program pengembangan karir untuk karyawan di level 1 agar mereka melihat jalur karir yang jelas di perusahaan)
 - Kebijakan kerja lembur (Mengevaluasi kembali kebijakan kerja lembur untuk memastikan keseimbangan kerja-hidup yang lebih baik bagi karyawan dan mempertimbangkan untuk memberikan kompensasi tambahan bagi karyawan yang sering bekerja lembur)
-- Kebijakan jarak tempuh (Mempertimbangkan bantuan transportasi/tempat untuk karyawan yang tinggal jauh dari kantor)
